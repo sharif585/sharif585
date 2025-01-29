@@ -1,5 +1,13 @@
-[![Read/Write profiles' data](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml)
+## Hi there! I'm Sharif Hasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+### 🚀 About Me
+
+- 🎓 **Computer Engineer** | Web Developer
+- 🌍 Passionate about **Web Development** & **Software Engineering**
+- 💡 Constantly learning and improving my skills
+- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+
+---
 <h1 align="center">Hi 👋, I'm Sharif Hasan</h1>
 <img align='right' alt='coding' width='400' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhqOW1haTVjNDZmaXNlamp4N2hqbW54c3Frd3BsNjdlOG9wNGN3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
 <h3 align="center">Crafting Code, Designing Dreams | Full-Stack Explorer 🚀 | Turning Ideas into Interactive Reality 🌐</h3>
