@@ -1,4 +1,6 @@
-## Hi there! I'm Sharif Hasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="80%" alt="Background GIF">
+
+
 
 <h1 align="center">Hi 👋, I'm Sharif Hasan</h1>
 <img align='right' alt='coding' width='400' src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
@@ -39,18 +41,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 This Week I Spent My Time On
+- Problem Solving
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharifHasan992&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharifHasan992&layout=compact&theme=radical)
 
----
 
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SharifHasan992&theme=radical)
 
 ---
+
+
 
 ### 🔗 Connect With Me
 
@@ -58,10 +57,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)]()
 
----
 
-
-
----
 
 🌟 **Don't forget to star my repositories if you find them useful!** 🌟
